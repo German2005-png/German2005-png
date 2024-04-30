@@ -1,7 +1,10 @@
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 💻 My Skills:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <p align="center">GitHub Stats</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=German2005-png&show_icons=true&locale=en&layout=compact" alt="German2005-png" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=German2005-png&show_icons=true&locale=en" alt="German2005-png" width="410" /></p>
 <!--
 **German2005-png/German2005-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
