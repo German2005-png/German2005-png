@@ -20,6 +20,9 @@
 <span>
 <h4> 🛠 &nbsp Other Tools and Technologies </h4>
 <span>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+<span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
@@ -27,7 +30,6 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <p align="center">GitHub Stats</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=German2005-png&show_icons=true&locale=en&layout=compact" alt="German2005-png" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=German2005-png&show_icons=true&locale=en" alt="German2005-png" width="410" /></p>
