@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-![German2005-png Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/[Aditya%20Vikram%20Singh%20Banner.jpg](https://media.licdn.com/dms/image/C4D12AQFgw1Mn5XFYWA/article-cover_image-shrink_720_1280/0/1622297110048?e=1720051200&v=beta&t=ip-pPL6pos9bsNbilhiwDmBQrM9SxtiIeOQ9AtpKH4E))
 <h4> 🛠 &nbsp Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
