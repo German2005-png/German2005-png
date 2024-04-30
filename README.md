@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="[https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/namecard.png](https://miro.medium.com/v2/resize:fit:1400/1*fgMMAFK0S_vhp3l9PkxsxA.png)">
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
